@@ -17,7 +17,7 @@ export function profileSection() {
           <i class="fas fa-phone-alt icon"></i>
           <a href="tel:+3412345678">+34-12345678</a>
         </div>
-        <p class="card__text">
+        <p class="card__text ">
                Mas de 25 años como empresario en el sector del mobiliario y
               decoracion, pero desde hace 4 meses estoy estudiando un Master en
               programacion en la empresa THE POWER, siempre he destacado por mi

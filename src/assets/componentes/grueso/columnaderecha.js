@@ -1,34 +1,4 @@
-/*export function skillsSection() {
-  return `
-    <article class="card">
-      <h2 class="card__title">FRONT END</h2>
-      <small>Horas de Estudio</small>
-      <div class="skills">
-        ${skill('HTML', '90')}
-        ${skill('CSS', '90')}
-        ${skill('JAVASCRIPT', '60')}
-        ${skill('PHP', '10')}
-        ${skill('REACT', '10')}
-      </div>
-    </article>
-  `
-}
-function skill(name, percentage) {
-  return `
-    <div class="skill">
-      <span class="skill__name">${name}</span>
-      <div class="skill__bar">
-        <div class="skill__level" style="width: ${percentage}%;"></div>
-      </div>
-    </div>
-  `
-}*/
-
 export function skillsSection() {
-  /* const container = document.getElementById('app')
-  document.addEventListener
-
-  container.innerHTML = `*/
   return `
     <article class="card">
       <h2 class="card__title">FRONT END</h2>
