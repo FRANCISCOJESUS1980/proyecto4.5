@@ -2,7 +2,7 @@ export function projectSection() {
   return `
     <article class="card card--project">
       <div class="card__image-container">
-        <img src="./src/assets/imagenes.jgp/proyecto1.jpeg" alt="landing page" class="card__image">
+        <img src="/public/assets1/imagenes.jgp/proyecto1.jpeg" alt="landing page" class="card__image">
       </div>
       <div class="project">
         <div class="project__tags">
@@ -21,7 +21,7 @@ export function projectSection() {
     </article>
     <article class="card card--project">
       <div class="card__image-container">
-        <img src="./src/assets/imagenes.jgp/proyecto2.jpeg" alt="landing page" class="card__image">
+        <img src="/public/assets1/imagenes.jgp/proyecto2.jpeg" alt="landing page" class="card__image">
       </div>
       <div class="project">
         <div class="project__tags">
@@ -41,7 +41,7 @@ export function projectSection() {
     </article>
     <article class="card card--project">
       <div class="card__image-container">
-        <img src="./src/assets/imagenes.jgp/proyecto3.jpeg" alt="landing page" class="card__image">
+        <img src="/public/assets1/imagenes.jgp/proyecto3.jpeg" alt="landing page" class="card__image">
       </div>
       <div class="project">
         <div class="project__tags">

@@ -2,7 +2,7 @@ export function profileSection() {
   return `
     <article class="card card--profile ">
       <div class="card__image-container">
-        <img src="./src/assets/imagenes.jgp/perfil.jpg" alt="perfil" />
+        <img src="/public/assets1/imagenes.jgp/perfil.jpg" alt="perfil" />
       </div>
       <div class="card__header">
         <h2 class="card__title no-margin">FranciscoDesings</h2>
@@ -33,7 +33,7 @@ export function experienceSection() {
     <article class="card card--experience ">
       <h2 class="card__title">Experiencies</h2>
       <div class="experience card">
-        <img src="./src/assets/imagenes.jgp/logo tienda.jpg" alt="logo" class="experience__image">
+        <img src="/public/assets1/imagenes.jgp/logo tienda.jpg" alt="logo" class="experience__image">
         <div class="experience__info">
           <p class="experience__time">Enero 2000- Current</p>
           <h3 class="experience__job">Gerente Mobiliario</h3>
@@ -41,7 +41,7 @@ export function experienceSection() {
         </div>
       </div>
       <div class="experience card">
-        <img src="./src/assets/imagenes.jgp/logopower.jpg" alt="logo" class="experience__image">
+        <img src="/public/assets1/imagenes.jgp/logopower.jpg" alt="logo" class="experience__image">
         <div class="experience__info">
           <p class="experience__time">Marzo 2024 - actualidad</p>
           <h3 class="experience__job">Estudiante ThePower</h3>
@@ -89,7 +89,7 @@ export function hobbiesSection() {
 function hobbie(title, img, description) {
   return `
     <div class="card__image-container ">
-      <img src="./src/assets/imagenes.jgp/${img}" alt="${title}">
+      <img src="/public/assets1/imagenes.jgp/${img}" alt="${title}">
     </div>
     <h3 class="hobbie__title">${title}</h3>
     <p class="card__text">${description}</p>
