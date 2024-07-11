@@ -2,6 +2,8 @@
 @import './src/assets/componentes/grueso/skills.scss';
 @import './src/assets/componentes/grueso/expeyproyec.scss';
 @import './src/assets/componentes/mediaq.scss';
+@import './src/assets/componentes/footer/footer.scss';
+
 :root {
   --primary-color: hsl(214, 84%, 56%);
   --text-color: hsl(0, 0%, 31%);
@@ -11,6 +13,7 @@
   --transition: color 0.1s, backgraund-color 0.2s ease-in-out;
   --skills-bar-length: 0%;
 }
+
 * {
   box-sizing: border-box;
 }
@@ -22,6 +25,7 @@ img {
   max-width: 100%;
   display: block;
 }
+
 body {
   margin: 0;
   background-color: var(--bg-color);
@@ -82,22 +86,4 @@ body.dark {
 .card__image {
   max-width: 100%;
   border-radius: 8px;
-}
-@media screen and (max-width: 720px) {
-  .grid-container {
-    display: flex;
-    flex-wrap: wrap;
-  }
-}
-@media screen and (max-width: 450px) {
-  .grid-container {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 5px;
-    .card {
-      max-width: 340px;
-      margin: 0;
-      margin-top: 10px;
-    }
-  }
 }

@@ -1,10 +1,14 @@
 import './main.scss'
+import './src/assets/componentes/mediaq.scss'
+
 import './src/assets/componentes/cabecera/header'
 import { createHeader } from './src/assets/componentes/cabecera/header'
 import './src/assets/componentes/grueso/columnaizquierda.js'
 import './src/assets/componentes/grueso/columnaderecha.js'
+import './src/assets/componentes/footer/footer.js'
 
 createHeader()
+
 import {
   profileSection,
   experienceSection,

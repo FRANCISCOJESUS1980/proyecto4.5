@@ -1,0 +1,29 @@
+@media screen and (max-width: 750px) {
+  .grid-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    .card {
+      max-width: 340px;
+      margin: 0;
+      margin-top: 10px;
+    }
+  }
+  .footer {
+    max-width: 340px;
+  }
+  .footer-buttons {
+    text-align: center;
+    a {
+      max-width: 90px;
+
+      margin-left: -5px;
+    }
+  }
+}
