@@ -11,7 +11,7 @@ export function createHeader() {
 
   const toggleIcon = document.createElement('img')
   toggleIcon.id = 'toggle-icon'
-  toggleIcon.src = ' /public/assets1/icons.svg/moon.svg'
+  toggleIcon.src = ' /assets1/icons.svg/moon.svg'
   toggleIcon.alt = 'icon theme'
   toggleIcon.className = 'toggle-theme__icon'
 
@@ -53,7 +53,7 @@ export function createHeader() {
       toggleIcon.src = '/public/assets1/icons.svg/soleado.png'
       toggleText.textContent = 'Light Mode'
     } else {
-      toggleIcon.src = '/public/assets1/icons.svg/moon.svg'
+      toggleIcon.src = '/assets1/icons.svg/moon.svg'
       toggleText.textContent = 'Dark Mode'
     }
   })
