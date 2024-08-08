@@ -11,7 +11,7 @@ export function createHeader() {
 
   const toggleIcon = document.createElement('img')
   toggleIcon.id = 'toggle-icon'
-  toggleIcon.src = ' /assets1/icons.svg/soleado.png'
+  toggleIcon.src = ' /assets1/icons.svg/verano.png'
   toggleIcon.alt = 'icon theme'
   toggleIcon.className = 'toggle-theme__icon'
 
@@ -50,7 +50,7 @@ export function createHeader() {
   toggleThemeDiv.addEventListener('click', () => {
     document.body.classList.toggle('dark')
     if (toggleIcon.src.includes('moon.svg')) {
-      toggleIcon.src = '/assets1/icons.svg/soleado.png'
+      toggleIcon.src = '/assets1/icons.svg/verano.png'
       toggleText.textContent = 'Light Mode'
     } else {
       toggleIcon.src = '/assets1/icons.svg/moon.svg'
