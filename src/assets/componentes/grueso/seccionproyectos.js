@@ -30,7 +30,7 @@ export function projectSection() {
           <span class="project__tag">#JavaScript</span>
           <span class="project__tag">#Responsive</span>
         </div>
-        <h2 class="card__title">Landing Page</h2>
+        <h2 class="card__title">Filtros y Modal</h2>
         <p class="card__text">En este proyecto nos pedian hacer una pagina, donde un usuario tenia unos productos para elegir, ademas debia tener un modal con un buscador</p>
         <p class="card__text">Este fue el segundo proyecto y el tema css y html se me dio muy rapido y bien, con el javascript ya tuve mas problemas, tambien le guardo un cariño especial porque fue le primero con javascript</p>
         <div class="buttons">
@@ -50,12 +50,32 @@ export function projectSection() {
           <span class="project__tag">#JavaScript</span>
           <span class="project__tag">#Responsive</span>
         </div>
-        <h2 class="card__title">Landing Page</h2>
+        <h2 class="card__title">Utilizar Api</h2>
         <p class="card__text">Este proyecto consistia en saber utilizar las Apis y hacerle peticiones segun el criterio del usuario</p>
         <p class="card__text">El tercer proyecto, excepto la parte de las Api que era la primera vez que la hacia el resto fue bastante bien y rapido, por ahora creo mi mejor proyecto tanto en maquetacion como en funcionalidad y estructuracion</p>
         <div class="buttons">
           <a href="https://heartfelt-twilight-cc89a6.netlify.app" class="button button--primary">Demo</a>
           <a href="https://github.com/FRANCISCOJESUS1980/proyecto-3.git" class="button button--ghost">Code</a>
+        </div>
+      </div>
+    </article>
+    <article class="card card--project">
+      <div class="card__image-container">
+        <img src="/assets1/imagenes.jgp/proyecto5.jpeg" alt="landing page" class="card__image">
+      </div>
+      <div class="project">
+        <div class="project__tags">
+          <span class="project__tag">#HTML</span>
+          <span class="project__tag">#CSS</span>
+          <span class="project__tag">#JavaScript</span>
+          <span class="project__tag">#Responsive</span>
+        </div>
+        <h2 class="card__title">GAMES HUB</h2>
+        <p class="card__text">En este proyecto teniamos que hacer tres juegos con una dificultad relativa</p>
+        <p class="card__text">El quinto proyecto, por ahora ha sido el mas dificil tanto por la logica de los juegos como todos los complementos</p>
+        <div class="buttons">
+          <a href="https://proyecto5-1.vercel.app" class="button button--primary">Demo</a>
+          <a href="https://github.com/FRANCISCOJESUS1980/proyecto5" class="button button--ghost">Code</a>
         </div>
       </div>
     </article>
