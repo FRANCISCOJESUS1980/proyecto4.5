@@ -50,7 +50,7 @@ export function createHeader() {
   toggleThemeDiv.addEventListener('click', () => {
     document.body.classList.toggle('dark')
     if (toggleIcon.src.includes('moon.svg')) {
-      toggleIcon.src = '/public/assets1/icons.svg/soleado.png'
+      toggleIcon.src = '/assets1/icons.svg/soleado.png'
       toggleText.textContent = 'Light Mode'
     } else {
       toggleIcon.src = '/assets1/icons.svg/moon.svg'
