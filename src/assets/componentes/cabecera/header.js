@@ -11,14 +11,14 @@ export function createHeader() {
 
   const toggleIcon = document.createElement('img')
   toggleIcon.id = 'toggle-icon'
-  toggleIcon.src = ' /assets1/icons.svg/moon.svg'
+  toggleIcon.src = ' /assets1/icons.svg/soleado.png'
   toggleIcon.alt = 'icon theme'
   toggleIcon.className = 'toggle-theme__icon'
 
   const toggleText = document.createElement('p')
   toggleText.id = 'toggle-text'
   toggleText.className = 'toggle-theme__text'
-  toggleText.textContent = 'Dark Mode'
+  toggleText.textContent = 'Light Mode'
 
   toggleThemeDiv.appendChild(toggleIcon)
   toggleThemeDiv.appendChild(toggleText)

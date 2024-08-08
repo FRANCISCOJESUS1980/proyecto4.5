@@ -9,6 +9,10 @@ import './src/assets/componentes/footer/footer.js'
 
 createHeader()
 
+document.addEventListener('DOMContentLoaded', () => {
+  document.body.classList.add('dark')
+})
+
 import {
   profileSection,
   experienceSection,

@@ -44,6 +44,10 @@
   background-color: var(--primary-color);
   cursor: pointer;
 }
+
+.colors__item--orange {
+  --primary-color: hsl(46, 84%, 56%);
+}
 .colors__item--blue {
   --primary-color: hsl(214, 84%, 56%);
 }
@@ -52,7 +56,4 @@
 }
 .colors__item--purple {
   --primary-color: hsl(276, 84%, 56%);
-}
-.colors__item--orange {
-  --primary-color: hsl(46, 84%, 56%);
 }
