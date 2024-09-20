@@ -11,11 +11,11 @@ export function profileSection() {
       <div class="car__body">
         <div class="card__link">
           <i class="fas fa-envelope icon"></i>
-          <a href="mailto:francisco@hotmail.com">francisco@hotmail.com</a>
+          <a href="mailto:jesusgonzalezvergara@hotmail.com">jesusgonzalezvergara@hotmail.com</a>
         </div>
         <div class="card__link">
           <i class="fas fa-phone-alt icon"></i>
-          <a href="tel:+3412345678">+34-12345678</a>
+          <a href="tel:+3412345678">+34-655453374</a>
         </div>
         <p class="card__text ">
                Mas de 25 años como empresario en el sector del mobiliario y
