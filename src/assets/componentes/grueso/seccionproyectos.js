@@ -81,14 +81,14 @@ export function projectSection() {
     </article>
      <article class="card card--project">
       <div class="card__image-container">
-        <img src="/assets1/imagenes.jgp/proyecto6.1.png" alt="backend" class="card__image">
+        <img src="/assets1/imagenes.jgp/proyecto6.4.jpg" alt="backend" class="card__image">
       </div>
       <div class="project">
         <div class="project__tags">
           <span class="project__tag">Mongo</span>
           <span class="project__tag">Express</span>
           <span class="project__tag">JavaScript</span>
-          <span class="project__tag">Responsive</span>
+        <span class="project__tag">CRUD</span>
            </div>
         <h2 class="card__title">BACKEND</h2>
         <p class="card__text">En este proyecto teniamos que hacer la conexion entre servidor y base de datos</p>
@@ -101,14 +101,14 @@ export function projectSection() {
     </article>
       <article class="card card--project">
       <div class="card__image-container">
-        <img src="/assets1/imagenes.jgp/proyecto7.jpg" alt="backend" class="card__image">
+        <img src="/assets1/imagenes.jgp/proyecto7.1.jpg" alt="backend" class="card__image">
       </div>
       <div class="project">
         <div class="project__tags">
           <span class="project__tag">Mongo</span>
           <span class="project__tag">Express</span>
           <span class="project__tag">JavaScript</span>
-          <span class="project__tag">Responsive</span>
+          <span class="project__tag">CRUD</span>
            </div>
         <h2 class="card__title">BACKEND API REST AUTH</h2>
         <p class="card__text">En este proyecto teniamos que hacer la conexion entre servidor y base de datos con semillas y relacion entre colecciones</p>
