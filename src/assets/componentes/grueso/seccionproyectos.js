@@ -6,9 +6,9 @@ export function projectSection() {
       </div>
       <div class="project">
         <div class="project__tags">
-          <span class="project__tag">#HTML</span>
-          <span class="project__tag">#CSS</span>
-          <span class="project__tag">#Responsive</span>
+          <span class="project__tag">HTML</span>
+          <span class="project__tag">CSS</span>
+          <span class="project__tag">Responsive</span>
         </div>
         <h2 class="card__title">Landing Page</h2>
         <p class="card__text">Teniamos que hacer una landing page con HTML Y CSS en la que todo estuviese responsive y con buenas practicas</p>
@@ -25,10 +25,10 @@ export function projectSection() {
       </div>
       <div class="project">
         <div class="project__tags">
-          <span class="project__tag">#HTML</span>
-          <span class="project__tag">#CSS</span>
-          <span class="project__tag">#JavaScript</span>
-          <span class="project__tag">#Responsive</span>
+          <span class="project__tag">HTML</span>
+          <span class="project__tag">CSS</span>
+          <span class="project__tag">JavaScript</span>
+          <span class="project__tag">Responsive</span>
         </div>
         <h2 class="card__title">Filtros y Modal</h2>
         <p class="card__text">En este proyecto nos pedian hacer una pagina, donde un usuario tenia unos productos para elegir, ademas debia tener un modal con un buscador</p>
@@ -45,10 +45,10 @@ export function projectSection() {
       </div>
       <div class="project">
         <div class="project__tags">
-          <span class="project__tag">#HTML</span>
-          <span class="project__tag">#CSS</span>
-          <span class="project__tag">#JavaScript</span>
-          <span class="project__tag">#Responsive</span>
+          <span class="project__tag">HTML</span>
+          <span class="project__tag">CSS</span>
+          <span class="project__tag">JavaScript</span>
+          <span class="project__tag">Responsive</span>
         </div>
         <h2 class="card__title">Utilizar Api</h2>
         <p class="card__text">Este proyecto consistia en saber utilizar las Apis y hacerle peticiones segun el criterio del usuario</p>
@@ -65,10 +65,10 @@ export function projectSection() {
       </div>
       <div class="project">
         <div class="project__tags">
-          <span class="project__tag">#HTML</span>
-          <span class="project__tag">#CSS</span>
-          <span class="project__tag">#JavaScript</span>
-          <span class="project__tag">#Responsive</span>
+          <span class="project__tag">HTML</span>
+          <span class="project__tag">CSS</span>
+          <span class="project__tag">JavaScript</span>
+          <span class="project__tag">Responsive</span>
         </div>
         <h2 class="card__title">GAMES HUB</h2>
         <p class="card__text">En este proyecto teniamos que hacer tres juegos con una dificultad relativa</p>
@@ -81,21 +81,41 @@ export function projectSection() {
     </article>
      <article class="card card--project">
       <div class="card__image-container">
-        <img src="/assets1/imagenes.jgp/proyecto6.jpg" alt="backend" class="card__image">
+        <img src="/assets1/imagenes.jgp/proyecto6.1.png" alt="backend" class="card__image">
       </div>
       <div class="project">
         <div class="project__tags">
-          <span class="project__tag">#HTML</span>
-          <span class="project__tag">#CSS</span>
-          <span class="project__tag">#JavaScript</span>
-          <span class="project__tag">#Responsive</span>
-        </div>
+          <span class="project__tag">Mongo</span>
+          <span class="project__tag">Express</span>
+          <span class="project__tag">JavaScript</span>
+          <span class="project__tag">Responsive</span>
+           </div>
         <h2 class="card__title">BACKEND</h2>
         <p class="card__text">En este proyecto teniamos que hacer la conexion entre servidor y base de datos</p>
         <p class="card__text">El sexto proyecto, has sido el primer proyecto en backend y por lo tanto me ha costado bastante</p>
         <div class="buttons">
           <a href="https://github.com/FRANCISCOJESUS1980/proyecto6" class="button button--primary">Demo</a>
           <a href="https://github.com/FRANCISCOJESUS1980/proyecto6" class="button button--ghost">Code</a>
+        </div>
+      </div>
+    </article>
+      <article class="card card--project">
+      <div class="card__image-container">
+        <img src="/assets1/imagenes.jgp/proyecto7.jpg" alt="backend" class="card__image">
+      </div>
+      <div class="project">
+        <div class="project__tags">
+          <span class="project__tag">Mongo</span>
+          <span class="project__tag">Express</span>
+          <span class="project__tag">JavaScript</span>
+          <span class="project__tag">Responsive</span>
+           </div>
+        <h2 class="card__title">BACKEND API REST AUTH</h2>
+        <p class="card__text">En este proyecto teniamos que hacer la conexion entre servidor y base de datos con semillas y relacion entre colecciones</p>
+        <p class="card__text">El septimo proyecto, has sido el segundo proyecto en backend y ya voy aprendiendo nuevos conceptos</p>
+        <div class="buttons">
+          <a href="https://github.com/FRANCISCOJESUS1980/proyecto7" class="button button--primary">Demo</a>
+          <a href="https://github.com/FRANCISCOJESUS1980/proyecto7" class="button button--ghost">Code</a>
         </div>
       </div>
     </article>
