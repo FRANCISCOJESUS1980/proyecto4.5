@@ -32,12 +32,28 @@ export function experienceSection() {
   return `
     <article class="card card--experience ">
       <h2 class="card__title">Experiencies</h2>
+         <div class="experience card">
+        <img src="/assets1/imagenes.jgp/universidad.jpg" alt="logo" class="experience__image">
+        <div class="experience__info">
+          <p class="experience__time">Septiembre 1997-Junio 2000 </p>
+          <h3 class="experience__job">Estudiante Empresariales</h3>
+          <p class="experience__description">Desde el 21 de Septiembre de 1997 estudié empresariales en la Universidad de Sevilla terminando la carrera en Junio del año 2000, a la vez que trabajaba en la empresa familiar como repartidor y ayudante, despues dependiente y demas. </p>
+        </div>
+      </div>
       <div class="experience card">
         <img src="/assets1/imagenes.jgp/logo tienda.jpg" alt="logo" class="experience__image">
         <div class="experience__info">
           <p class="experience__time">Enero 2000- Current</p>
           <h3 class="experience__job">Gerente Mobiliario</h3>
           <p class="experience__description">Tengo varias tiendas de muebles y electrodomesticos desde el año 2000 a la actualidad y basicamente vendemos de todo para el hogar</p>
+        </div>
+      </div>
+          <div class="experience card">
+        <img src="/assets1/imagenes.jgp/logo esmeca.jpg" alt="logo" class="experience__image">
+        <div class="experience__info">
+          <p class="experience__time">Abril 2005 - Septiembre 2005</p>
+          <h3 class="experience__job">Estudiante Esneca</h3>
+          <p class="experience__description">Desde el 15 de Marzo de 2005 estudie diseño e interiorismo con programas como autocad y kitchetdraw para el diseño y creacion de cocinas por ordenador</p>
         </div>
       </div>
       <div class="experience card">
