@@ -20,13 +20,13 @@
   width: 100%;
   a {
     background-color: var(--primary-color);
-    color: var(--text-color);
+    color: black;
     border-radius: var(--border-radius);
     height: 30px;
     padding: 10px 20px;
     flex-wrap: wrap;
     text-decoration: none;
-    text-align: center;
+    font-size: small;
   }
 }
 body.dark {
