@@ -140,5 +140,26 @@ export function projectSection() {
         </div>
       </div>
     </article>
+      <article class="card card--project">
+      <div class="card__image-container">
+        <img src="/assets1/imagenes.jgp/proyecto9.1.png" alt="backend" class="card__image">
+      </div>
+      <div class="project">
+        <div class="project__tags">
+          <span class="project__tag">Mongo</span>
+          <span class="project__tag">Express</span>
+          <span class="project__tag">JavaScript</span>
+          <span class="project__tag">CRUD</span>
+            <span class="project__tag">Cloudinary</span>
+           </div>
+        <h2 class="card__title">BACKEND API REST AUTH CLOUDINARY Y WEB SCRAPPING </h2>
+        <p class="card__text">En este proyecto teniamos que hacer la conexion entre servidor y base de datos creacion de modelos subida de archivos y fotos  mediante cloudinary ademas de hacer web scrapping a varias paginas a la vez</p>
+        <p class="card__text">El noveno proyecto, ha sido el cuarto proyecto en backend y ya estoy preparado para los siguientes</p>
+        <div class="buttons">
+          <a href="https://github.com/FRANCISCOJESUS1980/proyecto9" class="button button--primary">Demo</a>
+          <a href="https://github.com/FRANCISCOJESUS1980/proyecto9" class="button button--ghost">Code</a>
+        </div>
+      </div>
+    </article>
   `
 }
