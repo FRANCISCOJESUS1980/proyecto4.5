@@ -20,7 +20,7 @@ export function skillsSection() {
         </div>
         <div class="skills__item">
           <p class="skills__tech">JAVASCRIPT</p>
-          <div class="skills__bar skills__bar--80"></div>
+          <div class="skills__bar skills__bar--90"></div>
         </div>
         <div class="skills__item">
           <p class="skills__tech">PHP</p>
@@ -28,7 +28,7 @@ export function skillsSection() {
         </div>
         <div class="skills__item">
           <p class="skills__tech">REACT</p>
-          <div class="skills__bar skills__bar--10"></div>
+          <div class="skills__bar skills__bar--70"></div>
         </div>
       </div>
     </article>

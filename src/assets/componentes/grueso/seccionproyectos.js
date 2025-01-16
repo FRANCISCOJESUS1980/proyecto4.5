@@ -161,5 +161,26 @@ export function projectSection() {
         </div>
       </div>
     </article>
+      <article class="card card--project">
+      <div class="card__image-container">
+        <img src="/assets1/imagenes.jgp/backend y fronted.png" alt="backend" class="card__image">
+      </div>
+      <div class="project">
+        <div class="project__tags">
+          <span class="project__tag">Mongo</span>
+          <span class="project__tag">Express</span>
+          <span class="project__tag">JavaScript</span>
+          <span class="project__tag">CRUD</span>
+            <span class="project__tag">Cloudinary</span>
+           </div>
+        <h2 class="card__title">BACKEND CON FRONTED PROYECTO COMPLETO </h2>
+        <p class="card__text">En este proyecto teniamos que hacer la conexion entre backend y fronted para crear nuestra pagina completa por primera vez</p>
+        <p class="card__text">El proyecto 10, ha sido el primer proyecto uniendo backend y frotend y ha sido todo un reto, ya estoy preparado para los siguientes</p>
+        <div class="buttons">
+          <a href="https://proyecto-10-fronted.vercel.app/" class="button button--primary">Demo</a>
+          <a href="https://github.com/FRANCISCOJESUS1980/PROYECTO10FRONTED" class="button button--ghost">Code</a>
+        </div>
+      </div>
+    </article>
   `
 }
