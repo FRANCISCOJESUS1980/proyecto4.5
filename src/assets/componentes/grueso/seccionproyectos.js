@@ -182,5 +182,69 @@ export function projectSection() {
         </div>
       </div>
     </article>
+      <article class="card card--project">
+      <div class="card__image-container">
+        <img src="/assets1/imagenes.jgp/react.png" alt="backend" class="card__image">
+      </div>
+      <div class="project">
+        <div class="project__tags">
+          <span class="project__tag">Mongo</span>
+          <span class="project__tag">Express</span>
+          <span class="project__tag">JavaScript</span>
+            <span class="project__tag">Cloudinary</span>
+            <span class="project__tag">REACT</span>
+           </div>
+        <h2 class="card__title">FRONTED CON REACT </h2>
+        <p class="card__text">En este proyecto teniamos que hacer todo el fronted con REACT que es el ultimo modulo del master</p>
+        <p class="card__text">El proyecto 11, mi primer proyecto en REACT, es mucho mas facil y mejor hacerlo asi</p>
+        <div class="buttons">
+          <a href="https://proyecto11-zeta.vercel.app/" class="button button--primary">Demo</a>
+          <a href="https://github.com/FRANCISCOJESUS1980/proyecto11" class="button button--ghost">Code</a>
+        </div>
+      </div>
+    </article>
+     <article class="card card--project">
+      <div class="card__image-container">
+        <img src="/assets1/imagenes.jgp/proyecto12.jpg" alt="backend" class="card__image">
+      </div>
+      <div class="project">
+        <div class="project__tags">
+          <span class="project__tag">Mongo</span>
+          <span class="project__tag">Express</span>
+          <span class="project__tag">JavaScript</span>
+            <span class="project__tag">Cloudinary</span>
+            <span class="project__tag">REACT</span>
+           </div>
+        <h2 class="card__title">FRONTED CON REACT </h2>
+        <p class="card__text">Aplicación web de personajes de Dragon Ball donde los usuarios pueden agregar sus propios personajes y guardarlos en favoritos.
+Desarrollado con React, Context API, React Router y LocalStorage.</p>
+        <p class="card__text">El proyecto 12, mi segundo proyecto en REACT, ya le he cogido el tranquillo</p>
+        <div class="buttons">
+          <a href="https://proyecto12-ten.vercel.app/" class="button button--primary">Demo</a>
+          <a href="https://github.com/FRANCISCOJESUS1980/proyecto12" class="button button--ghost">Code</a>
+        </div>
+      </div>
+    </article>
+      <article class="card card--project">
+      <div class="card__image-container">
+        <img src="/assets1/imagenes.jgp/proyecto13.jpg" alt="backend" class="card__image">
+      </div>
+      <div class="project">
+        <div class="project__tags">
+          <span class="project__tag">Mongo</span>
+          <span class="project__tag">Express</span>
+          <span class="project__tag">JavaScript</span>
+            <span class="project__tag">Cloudinary</span>
+            <span class="project__tag">REACT</span>
+           </div>
+        <h2 class="card__title">FRONTED CON REACT </h2>
+        <p class="card__text">proyecto completo para un box de crosfit hecho con vite, react y javascript.</p>
+        <p class="card__text">El proyecto 13, mi tercer proyecto en REACT, hecho por mi solo completo y funcionando en box de crossfit</p>
+        <div class="buttons">
+          <a href="https://proyecto13fronted.vercel.app/" class="button button--primary">Demo</a>
+          <a href="https://github.com/FRANCISCOJESUS1980/proyecto13fronted" class="button button--ghost">Code</a>
+        </div>
+      </div>
+    </article>
   `
 }
