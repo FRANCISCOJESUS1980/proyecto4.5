@@ -24,11 +24,11 @@ export function skillsSection() {
         </div>
         <div class="skills__item">
           <p class="skills__tech">PHP</p>
-          <div class="skills__bar skills__bar--40"></div>
+          <div class="skills__bar skills__bar--80"></div>
         </div>
         <div class="skills__item">
           <p class="skills__tech">REACT</p>
-          <div class="skills__bar skills__bar--70"></div>
+          <div class="skills__bar skills__bar--90"></div>
         </div>
       </div>
     </article>
@@ -44,15 +44,15 @@ export function skillsSection() {
       <div class="skills">
         <div class="skills__item">
           <p class="skills__tech">Photshop</p>
-          <div class="skills__bar skills__bar--20"></div>
+          <div class="skills__bar skills__bar--90"></div>
         </div>
         <div class="skills__item">
           <p class="skills__tech">Ilustrador</p>
-          <div class="skills__bar skills__bar--70"></div>
+          <div class="skills__bar skills__bar--90"></div>
         </div>
         <div class="skills__item">
           <p class="skills__tech">Figma</p>
-          <div class="skills__bar skills__bar--50"></div>
+          <div class="skills__bar skills__bar--90"></div>
         </div>
      </article>
     <article class="card">
@@ -67,11 +67,11 @@ export function skillsSection() {
       <div class="skills">
         <div class="skills__item">
           <p class="skills__tech">After Effects</p>
-          <div class="skills__bar skills__bar--70"></div>
+          <div class="skills__bar skills__bar--90"></div>
         </div>
         <div class="skills__item">
           <p class="skills__tech">Premiere</p>
-          <div class="skills__bar skills__bar--60"></div>
+          <div class="skills__bar skills__bar--90"></div>
         </div>
     </article>`
 }
